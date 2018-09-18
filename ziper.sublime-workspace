@@ -1,0 +1,1179 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"dirFileName"
+			],
+			[
+				"DATE",
+				"DATETIME"
+			],
+			[
+				"Atendimento_",
+				"Atendimento_Object"
+			],
+			[
+				"idate",
+				"idatendimento"
+			],
+			[
+				"perio",
+				"periodo_afastamento"
+			],
+			[
+				"label",
+				"label\t<label> with <input>"
+			],
+			[
+				"cd",
+				"cid-item-selected"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"cid",
+				"cid-item"
+			],
+			[
+				"Medico",
+				"Medico_Object"
+			],
+			[
+				"lis",
+				"listarObjAtendimento"
+			],
+			[
+				"ated",
+				"atendimento"
+			],
+			[
+				"php",
+				"phpcredits"
+			],
+			[
+				"verfic",
+				"verificarParametros"
+			],
+			[
+				"ate",
+				"atestado"
+			],
+			[
+				"atend",
+				"atendimento"
+			],
+			[
+				"med",
+				"medico"
+			],
+			[
+				"param",
+				"params"
+			],
+			[
+				"espe",
+				"especializacaoModel"
+			],
+			[
+				"medic",
+				"medicos"
+			],
+			[
+				"vale",
+				"value"
+			],
+			[
+				"atendime",
+				"atendimentos"
+			],
+			[
+				"ID_",
+				"ID_ATENDIMENTO"
+			],
+			[
+				"rec",
+				"reconnect"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"list",
+				"listarObj"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"reci",
+				"receitas"
+			],
+			[
+				"Ates",
+				"Atestado_Object"
+			],
+			[
+				"aten",
+				"atendimentoModel"
+			],
+			[
+				"res",
+				"result2"
+			],
+			[
+				"medico",
+				"medicoModel"
+			],
+			[
+				"Revers",
+				"ReverseDateMysql"
+			],
+			[
+				"ID",
+				"ID_ATENDIMENTO"
+			],
+			[
+				"IDATENDI",
+				"IDATENDIMENTO"
+			],
+			[
+				"IDATEN",
+				"IDATENDIMENTO"
+			],
+			[
+				"VAR_",
+				"VAR_IDPACIENTE"
+			],
+			[
+				"IDA",
+				"ID_ATENDIMENTO"
+			],
+			[
+				"IDAT",
+				"IDATENDIMENTOIN"
+			],
+			[
+				"IDATE",
+				"IDATESTADO"
+			],
+			[
+				"subs",
+				"substr"
+			],
+			[
+				"base",
+				"base64_decode"
+			],
+			[
+				"ende",
+				"Endereco_Model"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"perg",
+				"pergunta"
+			],
+			[
+				"over",
+				"overflow-y\tproperty"
+			],
+			[
+				"m",
+				"m-5 \tBootstrap 4 Class"
+			],
+			[
+				"bt",
+				"btn-danger \tBootstrap 4 Class"
+			],
+			[
+				"resp",
+				"resp_a"
+			],
+			[
+				"re",
+				"result_resp"
+			],
+			[
+				"da",
+				"dados"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"qui",
+				"quiz"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"quiz",
+				"quiz_id"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"path",
+				"path_info"
+			],
+			[
+				"rou",
+				"router"
+			],
+			[
+				"id",
+				"id_projeto"
+			],
+			[
+				"BOL",
+				"BOOLEAN"
+			],
+			[
+				"__",
+				"__set"
+			],
+			[
+				"table-",
+				"table-striped \tBootstrap 4 Class"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"spacin",
+				"letter-spacing\tproperty"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"conta",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"bak",
+				"background-position\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"o",
+				"ordem_servico"
+			],
+			[
+				"auto",
+				"autoLoad"
+			],
+			[
+				"spl",
+				"spl_autoload_register"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"bakc",
+				"background-color\tproperty"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"Rg",
+				"rgba()"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"get_in",
+				"get_include_path"
+			],
+			[
+				"subr",
+				"substr"
+			],
+			[
+				"id_",
+				"id_colaborador"
+			],
+			[
+				"ti",
+				"tipo_projeto"
+			],
+			[
+				"us",
+				"unsigned"
+			],
+			[
+				"str",
+				"strcmp"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"ale",
+				"aleatorio"
+			],
+			[
+				"val",
+				"value2"
+			],
+			[
+				"key",
+				"key2"
+			],
+			[
+				"so",
+				"sobrenome"
+			],
+			[
+				"se",
+				"segundo"
+			],
+			[
+				"con",
+				"conjunto"
+			],
+			[
+				"p",
+				"primary"
+			],
+			[
+				"In",
+				"INNODB"
+			],
+			[
+				"ar",
+				"array_keys"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"tt",
+				"total"
+			],
+			[
+				"sub",
+				"substr_replace"
+			],
+			[
+				"oc",
+				"octeto"
+			],
+			[
+				"C",
+				"Co5"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"par",
+				"part_cod"
+			],
+			[
+				"bin",
+				"bindec"
+			],
+			[
+				"decode",
+				"bson_decode"
+			],
+			[
+				"strs",
+				"str_split"
+			],
+			[
+				"value",
+				"value3"
+			],
+			[
+				"read",
+				"readfile"
+			],
+			[
+				"P",
+				"preventDefault"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"getL",
+				"getLocal"
+			],
+			[
+				"getLo",
+				"getLogradouro"
+			],
+			[
+				"mysql",
+				"mysql_info"
+			],
+			[
+				"DB",
+				"DB_SENHA"
+			],
+			[
+				"D",
+				"DB_USER"
+			],
+			[
+				"pr",
+				"profissao"
+			],
+			[
+				"funci",
+				"funcionario_id"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"w",
+				"width\tAttr"
+			],
+			[
+				"me",
+				"method\tAttr"
+			],
+			[
+				"b4",
+				"b4:nav\tnav"
+			],
+			[
+				"pro",
+				"produto"
+			],
+			[
+				"form",
+				"form-control \tBootstrap 4 Class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "zipper.php",
+			"settings":
+			{
+				"buffer_size": 1438,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/H/www/Teste/teste.php",
+			"settings":
+			{
+				"buffer_size": 197,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test.php",
+			"settings":
+			{
+				"buffer_size": 197,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/H/www/Teste/img.php",
+			"settings":
+			{
+				"buffer_size": 2672,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/H/www/Teste/image.php",
+			"settings":
+			{
+				"buffer_size": 4531,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 71.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"intal pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"set htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htm\t",
+				"Set Syntax: HTML"
+			],
+			[
+				"set sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"set",
+				"Set Syntax: PHP"
+			],
+			[
+				"set htm\t",
+				"Set Syntax: HTML"
+			],
+			[
+				"insta \t",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"set\t",
+				"Set Syntax: PHP"
+			],
+			[
+				"set sq\t",
+				"Set Syntax: SQL"
+			],
+			[
+				"seyt sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"package contro:insall package",
+				"Package Control: Install Package"
+			],
+			[
+				"install packga",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"insta\t",
+				"Package Control: Install Package"
+			],
+			[
+				"inst\t",
+				"Install Package Control"
+			],
+			[
+				"set syntax: html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax: php",
+				"Set Syntax: PHP"
+			],
+			[
+				"pack\t",
+				"Install Package Control"
+			],
+			[
+				"install\t",
+				"Install Package Control"
+			],
+			[
+				"INSTAL\t",
+				"Install Package Control"
+			],
+			[
+				"inst",
+				"Install Package Control"
+			],
+			[
+				"install Package Control\t\t",
+				"Install Package Control"
+			],
+			[
+				"instal\t",
+				"Install Package Control"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/H/www/TPA/Zip",
+		"/H/www/Teste",
+		"/H/www/TPA/laravel",
+		"/H/www/TPA/laravel/config",
+		"/H/www/TPA/laravel/database"
+	],
+	"file_history":
+	[
+		"/H/www/TPA/Zip/home.php",
+		"/H/www/TPA/Zip/config.php",
+		"/H/www/admin/cliente/create.php",
+		"/H/www/TPA/Zip/dump.sql",
+		"/H/www/TPA/Zip/cadastrar.php",
+		"/H/www/Atrion/Library/Atrion/Utilities/Validator.php",
+		"/H/www/Teste/tester.html",
+		"/H/www/TPA/ecypt/hash.php",
+		"/H/www/Atrion/App/Templates/Default/js/verificacao_exame_medico.js",
+		"/H/www/Atrion/App/Modulos/Medico/Inc/modal_new_exam.php",
+		"/H/www/Atrion/App/Modulos/Cid/Model.php",
+		"/H/www/Atrion/App/Templates/Default/css/style.css",
+		"/H/www/Atrion/App/Modulos/Medico/Inc/modal_new_certificate.php",
+		"/H/www/Atrion/App/Templates/Default/js/verificacao_atestado_medico.js",
+		"/H/www/Atrion/App/Modulos/Medico/View/index.php",
+		"/H/www/Atrion/App/Modulos/Atestado/View/novo-atestado-nv.php",
+		"/H/www/Atrion/App/Modulos/Receita/Model.php",
+		"/H/www/Atrion/App/Modulos/Atestado/Model.php",
+		"/H/www/Atrion/App/Modulos/Atestado/Object.php",
+		"/H/www/Log.html",
+		"/H/www/Atrion/App/Modulos/Atestado/Controller.php",
+		"/H/www/Atrion/Dump/dump.sql",
+		"/H/www/Atrion/App/Modulos/Medico/Controller.php",
+		"/H/www/Atrion/App/Modulos/Medico/Inc/modal_new_prescription.php",
+		"/H/www/Atrion/App/Templates/Default/js/pesquisa.js",
+		"/H/www/Atrion/App/Modulos/Medico/View/pesquisar-cid-nv.php",
+		"/H/POO/Projetos/Trim_3/Crud_Lutador/Crud_Lutador/index.aspx",
+		"/H/www/Atrion/App/Templates/Default/js/modal.js",
+		"/H/www/Atrion/App/Modulos/Certificacao/Model.php",
+		"/H/www/Atrion/App/Modulos/Certificacao/View/receita.php",
+		"/H/www/Atrion/App/Modulos/Certificacao/Controller.php",
+		"/H/www/Atrion/App/Templates/Default/js/relatorios.js",
+		"/H/www/Atrion/App/Modulos/Medico/View/ver-paciente.php",
+		"/H/www/Atrion/App/Modulos/Certificacao/View/atestado.php",
+		"/H/www/Atrion/App/Modulos/Certificacao/View/exame.php",
+		"/H/www/Atrion/App/Modulos/Certificacao/View/index.php",
+		"/H/www/Atrion/App/Modulos/Certificacao/Object.php",
+		"/H/www/Atrion/App/Modulos/Medico/Model.php",
+		"/H/www/Atrion/App/Modulos/Medico/Inc/header.php",
+		"/H/www/Atrion/App/Templates/Default/js/pesquisa_pacientes.js",
+		"/H/www/Atrion/App/Templates/Default/js/notificacao-paciente.js",
+		"/H/www/Atrion/App/Modulos/Medico/View/pesquisar-paciente-medico-nv.php",
+		"/H/www/Atrion/App/Modulos/Home/View/cadastro-medico.php",
+		"/H/www/Atrion/App/Templates/Default/js/script.js",
+		"/H/www/Atrion/App/Modulos/Paciente/Controller.php",
+		"/H/www/Atrion/App/Modulos/Paciente/View/index.php",
+		"/H/www/Atrion/App/Templates/Default/js/verificacao.js",
+		"/H/www/Atrion/App/Modulos/Medico/Inc/modal_endereco.php",
+		"/H/www/Atrion/App/Modulos/Atendimento/View/salvar-atendimento-nv.php",
+		"/H/www/Atrion/App/Modulos/Atendimento/Controller.php",
+		"/H/www/Atrion/App/Templates/Default/js/verificacao_receita_medico.js",
+		"/H/www/conect.php",
+		"/H/www/Atrion/App/Modulos/Paciente/View/ver-atestado.php",
+		"/H/www/Atrion/App/Modulos/Paciente/View/ver-atendimento.php",
+		"/H/www/Atrion/App/Modulos/Paciente/Inc/modal_see_prescription.php",
+		"/H/www/Atrion/App/Modulos/Paciente/Inc/modal_see_certificate.php",
+		"/H/www/Atrion/App/Modulos/Home/View/cadastro-paciente.php",
+		"/H/www/Atrion/App/Modulos/Paciente/View/ver-exame.php",
+		"/H/www/Atrion/App/Modulos/Paciente/View/ver-med.php",
+		"/H/www/Atrion/App/Modulos/Paciente/Inc/modal_see_exam.php",
+		"/H/www/Atrion/App/Modulos/Paciente/Inc/header.php",
+		"/H/www/Atrion/App/Modulos/Exame/Controller.php",
+		"/H/www/Atrion/App/Modulos/Receita/Controller.php",
+		"/H/www/Atrion/App/Modulos/Receita/View/receitas-modal-nv.php",
+		"/H/www/Atrion/App/Modulos/Atestado/View/atestados-dal-nv.php",
+		"/H/www/Atrion/App/Modulos/Medico/Object.php",
+		"/H/www/Atrion/App/Modulos/Atendimento/Model.php",
+		"/H/www/Atrion/App/Modulos/Exame/View/exames-modal-nv.php",
+		"/H/www/Atrion/App/Modulos/Paciente/Model.php",
+		"/H/www/Atrion/App/Templates/Default/js/animated-scroll.js",
+		"/H/www/Atrion/App/Modulos/Ficha/Model.php",
+		"/H/www/Atrion/App/Modulos/Medico/View/novo-atendimento.php",
+		"/H/www/atualizacoes/ver-atendimento.php",
+		"/H/www/Atrion/App/Modulos/Exame/Model.php",
+		"/H/www/Atrion/App/Modulos/Categoria/Model.php",
+		"/H/www/Atrion/App/Modulos/Exame/Object.php",
+		"/H/www/Atrion/Dump/inserts.sql",
+		"/H/www/Atrion/App/Modulos/Especializacao/Model.php",
+		"/H/www/Atrion/Library/Atrion/Core/Master/Model.php",
+		"/H/www/Atrion/App/Modulos/Endereco/Model.php",
+		"/H/www/Atrion/Library/Atrion/Core/Connect.php",
+		"/H/www/Atrion/App/Modulos/Telefone/Model.php",
+		"/H/www/Atrion/App/Modulos/Home/Model.php",
+		"/H/www/Atrion/App/Modulos/Imagem/Model.php",
+		"/H/www/Atrion/App/Modulos/MedicoEspecializacao/Model.php",
+		"/H/www/Atrion/App/Modulos/Medico/View/ver-atendimento.php",
+		"/H/www/blog/config.php",
+		"/H/www/Atrion/App/Templates/Default/index.php",
+		"/H/www/Atrion/App/Modulos/Atendimento/Object.php",
+		"/H/www/Atrion/App/Modulos/Cid/Object.php",
+		"/H/www/Atrion/Dump/procedures_dump.sql",
+		"/H/www/Teste/image.php",
+		"/H/www/Teste/img.php",
+		"/H/www/Atrion/App/Modulos/Home/Object.php",
+		"/H/www/Atrion/App/Modulos/Endereco/Object.php",
+		"/H/www/Atrion/App/Modulos/Home/Controller.php",
+		"/H/www/Atrion/Library/Atrion/Core/Router.php",
+		"/H/www/Atrion/Library/Atrion/Core/Master/Object.php",
+		"/H/www/Atrion/Library/Atrion/Core/Master/Controller.php",
+		"/H/www/Atrion/index.php",
+		"/H/www/Atrion/_htaccess",
+		"/H/www/Atrion/Library/Atrion/Core/AutoLoad.php",
+		"/H/www/Atrion/Library/Atrion/Core/Master/View.php",
+		"/H/BD2/Rede_conservadora/rede_conservadora_NEW_inserts.sql",
+		"/H/POO/Projetos/Trim_2/Conservadora_Sindico/Dump/rede_geral.sql",
+		"/H/POO/Projetos/Trim_2/Conservadora_Sindico/Dump/rede_conservadora_NEW_inserts.sql",
+		"/H/POO/Projetos/Trim_2/Conservadora_Sindico/Dump/rede_conservadora_NEW.sql",
+		"/H/Python/program/teste.py",
+		"/H/www/TPA/inserQuiz/index.php",
+		"/H/www/quiz/lib/CSS/css.css",
+		"/H/www/quiz/lib/JS/js.js",
+		"/H/www/quiz/otc/add_apurar2.php",
+		"/H/www/quiz/otc/add_apurar.php",
+		"/H/www/quiz/apurar.php",
+		"/H/www/quiz/inc/pg_apurar.php",
+		"/H/www/quiz/nova_pergunta.php",
+		"/H/www/quiz/inc/header.php",
+		"/H/BD2/Maria_fumaça/Maria_Fumaca.sql",
+		"/H/www/quiz/lib/DUMP/positivo_function.sql",
+		"/H/positivo.sql",
+		"/H/BD2/sakila-db/sakila-schema.sql",
+		"/H/www/Quiz/apurar.php",
+		"/H/www/Quiz/inc/pg_apurar.php",
+		"/H/www/Quiz/otc/add_apurar.php",
+		"/H/exe.py",
+		"/H/BD2/Rede_conservadora/rede_conservadora_NEW.sql",
+		"/H/www/admin/lib/DTO/DTO_Responsavel.php",
+		"/H/www/admin/lib/BLL/controller.Responsavel.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 127.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pathinfo",
+			"null",
+			"Bootstrap_files",
+			"search-result-cids",
+			"select-categoria-cid",
+			"cod_cid",
+			"cid-autocomplete",
+			"ate",
+			"cert_status_cid",
+			"display: none;",
+			"\n    ",
+			"%;\n",
+			"cert_status_cid",
+			"exam-categoria-cid",
+			"new_exam",
+			"atestado",
+			"on",
+			"cert_status_cid",
+			"display: none",
+			"$(\"#",
+			"console",
+			"setTimeout",
+			"console.log('Ola mundos');\n\t\tvar cid = $(this).attr('data-id');\n\t\tconsole.log(cid);\n\n\t\t$(\"#cod_cid\").val(cid);\n\n\t});",
+			"list-home-inblock",
+			"list-pac-assoc",
+			"border",
+			"display: none;",
+			"#cid-auto",
+			"150px",
+			"PESQUISAR_",
+			"PESQUISAR_CID_CATEGORIA",
+			"cid-auto",
+			"img-tools-block",
+			"concat",
+			"cid-autocomplete"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"file",
+			"select-exam-categoria-cid",
+			"search-exam-result-cids",
+			"select-exam-categoria-cid",
+			"cod_cid2",
+			"cid-exam-autocomplete",
+			"",
+			"cid-exam-autocomplete",
+			"exa"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "H:\\www\\Atrion"
+		},
+		{
+			"path": "H:\\www\\TPA\\Zip"
+		},
+		{
+			"path": "H:\\www\\Teste"
+		},
+		{
+			"path": "H:\\www\\TPA\\laravel"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "zipper.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1438,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1144,
+								1144
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 413.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/H/www/Teste/teste.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								75
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "test.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								197,
+								197
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/H/www/Teste/img.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2672,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 78.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/H/www/Teste/image.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2671,
+								2740
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 78.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Chrome.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
