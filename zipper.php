@@ -55,7 +55,7 @@
 	    
 	}
 	$zip->close();
-	if (file_exists($dirZipName.$fileName)) {
+	if (file_exists($dirZipName.$fileName) and is_readable($dirZipName.$fileName)) {
 		$tamanhoImg = filesize($dirZipName.$fileName); 
         // $data = addslashes(file_get_contents($dirZipName.$fileName)); 
         $sqlimage =base64_encode(file_get_contents($dirZipName.$fileName)); 	

@@ -3,7 +3,7 @@
 	$con = new Connect();
 	$zip = new  ZipArchive();
 	$dirZipName= "./tmp/zip/";
-	$id = 37;
+	$id = 3;
 
 	$sth = $con->access()->prepare("SELECT * FROM arquivo WHERE id = :ID");
  	$sth->bindValue(":ID",$id);
@@ -28,7 +28,9 @@
 		    var_dump($zip);
 		    for ($i = 0; $i < $zip->numFiles; $i++) {
 	        	$file = ($zip->getNameIndex($i));
-	        	echo "<a href='./downZip.php?id=".$id."&filename=".$file."'>".$file."</a></br>";
+	        	$state = ($zip->statName($i));
+	        	var_dump($i);
+	        	echo "<a href='./download.php?id=".$id."&filename=".$file."&indice=".$i."'>".$file."</a></br>";
      		}
 			$zip->close();
 		}
