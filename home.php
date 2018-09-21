@@ -39,7 +39,7 @@
           <form action="zipper.php" method="POST" enctype="multipart/form-data">
             <div class="mb-3">
               <label for="arquivo">Arquivo</label>
-              <input type="file" class="form-control" name="arquivo[]"  accept="audio/*" multiple="true">
+              <input type="file" class="form-control" name="arquivos[]"  accept="audio/*" multiple="true">
             </div>
              <div class="mb-3">
               <label for="senha">Senha:</label>
